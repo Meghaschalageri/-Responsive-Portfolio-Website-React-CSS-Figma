@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Application Developer",
+    "organisation": "NEW YORKER",
+    "startDate": "Oct, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Contributed to ERP projects, specifically in Microsoft Dynamics AX, optimizing third-party integrations.",
+      "Worked on system optimization, improving existing software architectures and enhancing business processes using agile methodologies."
+    ],
+    "imageSrc": "history/newyorker.jpg"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "LTIMindtree",
+    "startDate": "Oct, 2021",
+    "endDate": "Sept, 2024",
+    "experiences": [
+      "Developed client applications with Angular, improving project tracking and UI/UX performance.",
+      "Implemented RESTful APIs, optimizing performance through code splitting and lazy loading, which increased data retrieval time by 40%."
+    ],
+    "imageSrc": "history/ltimindtree.png"
+  },
+  {
+    "role": "Bachelor Thesis Intern",
+    "organisation": "Manomaya Software Services",
+    "startDate": "Feb, 2021",
+    "endDate": "Jul, 2021",
+    "experiences": [
+      "Designed and developed a responsive e-commerce application with a focus on user experience and cross-device compatibility.",
+      "Integrated secure transaction management and APIs for smooth client-server communication and order processing."
+    ],
+    "imageSrc": "history/manomaya.png"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Movie Booking Application",
+    "imageSrc": "projects/movieticketbookingapp.png",
+   "description": "An intuitive movie booking platform that enhances user engagement with a seamless browsing and booking experience.",
+    "skills": ["MongoDB", "Express", "Angular", "Node.js", "TypeScript", "JWT", "Cloud Deployment"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Restaurant Management Website",
+    "imageSrc": "projects/RestaurantManagementWebsite.png",
+    "description": "A full-fledged restaurant management system with real-time updates, secure authentication, and cloud deployment.",
+    "skills": ["React", "Material-UI", "Node.js", "Express", "Redux", "RESTful API"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Task Management API",
+    "imageSrc": "projects/TaskManagementAPI.webp",
+    "description": "A robust backend API for task management with user authentication, role-based access, and scalable architecture, ensuring efficiency and security.",
+    "skills": ["Node.js", "Express", "MongoDB", "JWT", "Docker", "Redis"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
