@@ -7,14 +7,14 @@ Additionally, React hooks are used for interactivity, and JSON is leveraged for 
 
 Key Features:
 
-Build a responsive portfolio using React and CSS
+1. Build a responsive portfolio using React and CSS
 
-Use CSS Modules and animations for clean styling
+2. Use CSS Modules and animations for clean styling
 
-Implement dynamic user experiences with React hooks
+3. Implement dynamic user experiences with React hooks
 
-Manage content using JSON for easy updates
+4. Manage content using JSON for easy updates
 
-Deploy the project and make it production-ready
+5. Deploy the project and make it production-ready
 
-Run the project with npm run dev to get started!
+Run the project with **npm run dev** to get started!
