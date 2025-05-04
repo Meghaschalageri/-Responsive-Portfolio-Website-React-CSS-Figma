@@ -1,20 +1,46 @@
-**Responsive Portfolio Website with React, CSS, and Figma**
+# Responsive Portfolio Website with React, CSS, and Figma
 
-This repository contains the code for building a responsive portfolio website from scratch using React, CSS, and Figma. 
-It demonstrates how to create an impressive, dynamic portfolio that stands out. 
-The project includes React components, CSS Modules, CSS animations, and responsive design principles.
-Additionally, React hooks are used for interactivity, and JSON is leveraged for content management.
+This repository contains the code for building a responsive portfolio website from scratch using **React**, **CSS**, and **Figma**. It demonstrates how to create a modern, dynamic portfolio that stands out. The project includes **React components**, **CSS Modules**, **CSS animations**, and **responsive design principles**. React hooks are used for interactivity, and **JSON** is used for simple content management.
 
-Key Features:
+---
 
-1. Build a responsive portfolio using React and CSS
+## 🧩 Key Features
 
-2. Use CSS Modules and animations for clean styling
+* ✅ Build a responsive portfolio using React and CSS
+* 🎨 Use CSS Modules and animations for clean, modular styling
+* ⚙️ Implement dynamic experiences with React Hooks
+* 🗂 Manage content via JSON for easy editing
+* 🚀 Deploy the project and make it production-ready
+* 🖥 Run locally using `npm run dev`
 
-3. Implement dynamic user experiences with React hooks
+---
 
-4. Manage content using JSON for easy updates
+## 🚀 Getting Started – Step-by-Step
 
-5. Deploy the project and make it production-ready
+1. **Download or Clone the Repository**
 
-Run the project with **npm run dev** to get started!
+   * Option 1: Click **Code > Download ZIP** and extract the folder.
+   * Option 2: Use Git –
+
+     ```bash
+     git clone https://github.com/your-username/your-repo-name.git
+     cd your-repo-name
+     ```
+
+2. **Install Dependencies**
+
+   * Make sure you have **Node.js** and **npm** installed. Then run:
+
+     ```
+     npm install
+     ```
+
+3. **Start the Development Server**
+
+   * Launch the app locally with:
+
+     ```
+     npm run dev
+     ```
+   * Open your browser and go to `http://localhost:3000` to view the website.
+
